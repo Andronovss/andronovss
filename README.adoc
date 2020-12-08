@@ -3,7 +3,7 @@ Tech writer - andronovss@icloud.com
 :experimental:
 :icons: font
 
-image::https://github.com/Andronovss/andronovss/blob/main/assets/header.jpg[Header,35%]
+image::https://github.com/Andronovss/andronovss/blob/main/assets/header.jpg[Header]
 
 I'm a technical writer and DocOps at http://mcs.mail.ru[Mail.ru Cloud].
 

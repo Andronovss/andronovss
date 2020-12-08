@@ -1,10 +1,9 @@
+image::https://github.com/Andronovss/andronovss/blob/main/assets/header.jpg[Header]
+
 = Hi there and you are welcome 👋
 Tech writer - andronovss@icloud.com
 :experimental:
 :icons: font
-:img-ci: https://img.shields.io/travis/asciidoctor/asciidoctor/master.svg
-
-image::https://github.com/Andronovss/andronovss/blob/main/assets/header.jpg[Header]
 
 I'm a technical writer and DocOps at http://mcs.mail.ru[Mail.ru Cloud].
 
@@ -28,5 +27,4 @@ image:https://img.shields.io/badge/-visual studio code-2C2C32?style=for-the-badg
 == Follow me
 
 image:https://img.shields.io/badge/-linkedin-2C5EBE?style=for-the-badge&logo=linkedin[link="https://www.linkedin.com/in/andronov-stanislav/?locale=en_US"]
-"]
 

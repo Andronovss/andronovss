@@ -3,7 +3,7 @@ Tech writer - andronovss@icloud.com
 :experimental:
 :icons: font
 
-image::https://github.com/Andronovss/andronovss/blob/main/assets/header.jpg[Header]
+image::https://github.com/Andronovss/andronovss/blob/main/assets/header.jpg[Header,250,350]
 
 **Andronovss/andronovss** is a ✨ _special_ ✨ GitHub repository.
 

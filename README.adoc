@@ -1,9 +1,9 @@
 image::https://github.com/Andronovss/andronovss/blob/main/assets/header.jpg[Header]
+:experimental:
+:icons: font
 
 = Hi there and you are welcome 👋
 Tech writer - andronovss@icloud.com
-:experimental:
-:icons: font
 
 I'm a technical writer and DocOps at http://mcs.mail.ru[Mail.ru Cloud].
 

@@ -2,6 +2,7 @@
 Tech writer - andronovss@icloud.com
 :experimental:
 :icons: font
+:img-ci: https://img.shields.io/travis/asciidoctor/asciidoctor/master.svg
 
 image::https://github.com/Andronovss/andronovss/blob/main/assets/header.jpg[Header]
 
@@ -23,3 +24,8 @@ Here are some of my projects:
 image:https://img.shields.io/badge/-asciidoctor-276A9C?style=for-the-badge&logo=asciidoctor[text processor]
 image:https://img.shields.io/badge/-antora-D84E1F?style=for-the-badge&logo=Antora[website generator]
 image:https://img.shields.io/badge/-visual studio code-2C2C32?style=for-the-badge&logo=visual studio code[editor]
+
+== Follow me
+
+image:https://img.shields.io/badge/-linkedin-2C5EBE?style=for-the-badge&logo=linkedin[link="https://www.linkedin.com/in/andronov-stanislav/?locale=en_US
+"]

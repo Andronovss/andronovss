@@ -1,6 +1,6 @@
 ![Header](https://github.com/Andronovss/andronovss/blob/main/assets/header.jpg)
 
-## <span style="color:#818284">Hi there and you are welcome 👋</span>
+## <span class="h1"><span style="color:#818284">Hi there and you are welcome 👋</span></span>
 
 I'm a technical writer and DocOps at [Mail.ru Cloud](http://mcs.mail.ru/en/).
 

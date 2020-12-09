@@ -10,7 +10,7 @@ Here are some info about me:
 - 🌱 I’m currently learning `CI/CD`
 - 🤔 I’m looking for help with `Docs-as-Code`
 
-## Latest blog posts
+## 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Технические писатели?!](https://dev.to/andronovss/-47n)

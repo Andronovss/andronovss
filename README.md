@@ -22,7 +22,7 @@ Here are some info about me:
 
 ## Follow me
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin-2C5EBE?style=for-the-badge&logo=linkedin)](link="https://www.linkedin.com/in/andronov-stanislav/?locale=en_US")
+[![LinkedIn](https://img.shields.io/badge/-linkedin-2C5EBE?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andronov-stanislav/?locale=en_US)
 
 ## My stats
 

@@ -27,3 +27,4 @@ image:https://img.shields.io/badge/-visual studio code-2C2C32?style=for-the-badg
 
 image:https://img.shields.io/badge/-linkedin-2C5EBE?style=for-the-badge&logo=linkedin[link="https://www.linkedin.com/in/andronov-stanislav/?locale=en_US"]
 
+https://github-readme-stats.vercel.app/api?username=Andronovss&show_icons=true[https://github.com/Andronovss/github-readme-stats]

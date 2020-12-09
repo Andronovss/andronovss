@@ -2,7 +2,7 @@
 
 ## Hi there and you are welcome 👋
 
-I'm a technical writer and DocOps at [Mail.ru Cloud](http://mcs.mail.ru).
+I'm a technical writer and DocOps at [Mail.ru Cloud](http://mcs.mail.ru/en/).
 
 Here are some info about me:
 

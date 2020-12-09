@@ -13,12 +13,12 @@ Here are some info about me:
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Технические писатели?!](https://dev.to/andronovss/-47n)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## What i'm using in my work
 
-![https://asciidoctor.org/](https://img.shields.io/badge/-asciidoctor-276A9C?style=for-the-badge&logo=asciidoctor) ![https://antora.org/](https://img.shields.io/badge/-antora-D84E1F?style=for-the-badge&logo=antora) ![https://code.visualstudio.com/](https://img.shields.io/badge/-visual--studio--code-2C2C32?style=for-the-badge&logo=visual-studio-code)
+[![Asciidoctor](https://img.shields.io/badge/-asciidoctor-276A9C?style=for-the-badge&logo=asciidoctor)](https://asciidoctor.org/) [![Antora](https://img.shields.io/badge/-antora-D84E1F?style=for-the-badge&logo=antora)](https://antora.org/) [![Visual Studio Code](https://img.shields.io/badge/-visual--studio--code-2C2C32?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 ## Follow me
 

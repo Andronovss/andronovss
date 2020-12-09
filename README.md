@@ -13,7 +13,7 @@ Here are some info about me:
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Технические писатели?!](https://dev.to/andronovss/-47n)
 <!-- BLOG-POST-LIST:END -->
 
 ## What i'm using in my work

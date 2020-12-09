@@ -2,11 +2,11 @@
 
 ## Hi there and you are welcome 👋
 
-I'm a technical writer and DocOps at http://mcs.mail.ru[Mail.ru Cloud].
+I'm a technical writer and DocOps at [Mail.ru Cloud](http://mcs.mail.ru).
 
 Here are some info about me:
 
-- 🔭 I’m currently working on `https://mcs.mail.ru/help/[mcs.mail.ru`]
+- 🔭 I’m currently working on [`mcs.mail.ru`](https://mcs.mail.ru/help/)
 - 🌱 I’m currently learning `CI/CD`
 - 🤔 I’m looking for help with `Docs-as-Code`
 

@@ -8,25 +8,23 @@ I'm a technical writer and DocOps at http://mcs.mail.ru[Mail.ru Cloud].
 
 Here are some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on `https://mcs.mail.ru/help/[mcs.mail.ru`]
+- 🌱 I’m currently learning `CI/CD`
+- 🤔 I’m looking for help with `Docs-as-Code`
 
+[%hardbreaks]
 == What i'm using in my work
 
 image:https://img.shields.io/badge/-asciidoctor-276A9C?style=for-the-badge&logo=asciidoctor[link="https://asciidoctor.org/"]
 image:https://img.shields.io/badge/-antora-D84E1F?style=for-the-badge&logo=Antora[link="https://antora.org/"]
 image:https://img.shields.io/badge/-visual studio code-2C2C32?style=for-the-badge&logo=visual studio code[link="https://code.visualstudio.com/"]
 
+[%hardbreaks]
 == Follow me
 
 image:https://img.shields.io/badge/-linkedin-2C5EBE?style=for-the-badge&logo=linkedin[link="https://www.linkedin.com/in/andronov-stanislav/?locale=en_US"]
 
+[%hardbreaks]
 == My stats
 
 image::https://github-readme-stats.vercel.app/api?username=Andronovss&show_icons=true[https://github.com/Andronovss/github-readme-stats]

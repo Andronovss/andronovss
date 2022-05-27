@@ -2,11 +2,11 @@
 
 ## Hi there and you are welcome 👋
 
-I'm a technical writer and DocOps at [Arenadata Tech](https://arenadata.tech/en/).
+I'm a technical writer and DocOps.
 
 Here are some info about me:
 
-- 🔭 I’m currently working on [`Arenadata Tech`](https://arenadata.tech/en/)
+- 🔭 I am open to offers
 - 🌱 I’m currently learning `CI/CD`
 - 🤔 I’m looking for help with `Docs-as-Code`
 
